@@ -1,0 +1,17 @@
+body {
+	font-size: 24px;
+	color:white;
+	background-color: #808080;
+	letter-spacing: 3px;
+	font-family: COMIC SANS MS;
+}
+#box {
+	width: 200 px;
+	height: 500 px;
+	margin: 0 auto;
+	background-color: #404040;
+}
+#box:hover {
+	transform: rotate(360deg);
+	transition:5.0s;
+}
